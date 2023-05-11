@@ -1,2 +1,2 @@
-# Advanced-Css-Week-2-assignment-
-Week 2 assignment for advanced css
+#  Personal Portfolio
+ Beginning stages of my professional portfolio
